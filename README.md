@@ -1,2 +1,2 @@
 # Project_4_Group_5
-Final project repo!
+[Proposal](https://docs.google.com/document/d/1_mmjhWB2bmb_Mg4SUhwQDDBE3OMgFlOQ-MN9PvC8HbQ)
