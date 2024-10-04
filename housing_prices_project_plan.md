@@ -6,6 +6,8 @@
 - Member 2: [Caroline]
 - Member 3: [Weibin]
 - Member 4: [David]
+- Partner Group 1: [Madison & Caroline]
+- Partner Group 2: [Weibin & David]
 
 ## Project Overview
 Our project will focus on analyzing and predicting housing prices in California using machine learning techniques. We will explore the dataset, perform data cleaning and analysis, and develop a predictive model.
