@@ -2,10 +2,10 @@
 # Project 4: Housing Prices in California - Machine Learning
 
 ## Team Members
-- Member 1: [Name]
-- Member 2: [Name]
-- Member 3: [Name]
-- Member 4: [Name]
+- Member 1: [Madison]
+- Member 2: [Caroline]
+- Member 3: [Weibin]
+- Member 4: [David]
 
 ## Project Overview
 Our project will focus on analyzing and predicting housing prices in California using machine learning techniques. We will explore the dataset, perform data cleaning and analysis, and develop a predictive model.
@@ -14,8 +14,8 @@ Our project will focus on analyzing and predicting housing prices in California 
 
 ### Problem Identification
 - **Task**: Identify a specific problem related to housing prices that is worth solving.
-- **Assigned to**: [Member1]
-- **Due**: [Date]
+- **Assigned to**: [All]
+- **Due**: [10-4-2024]
 
 ### Data Exploration and Cleanup
 - **Task**: Explore and clean the dataset to prepare it for analysis. Keep track of steps in a Jupyter notebook.
