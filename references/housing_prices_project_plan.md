@@ -56,7 +56,7 @@ Our project will focus on analyzing and predicting housing prices in California 
 
 ### GitHub Documentation
 - **Task**: Maintain a clean GitHub repository, including a polished README.
-- **Assigned to**: All members
+- **Assigned to**: All members, finalization and last minute checks by Madison
 - **Due**: Wed 10/15/2024
 
 ## Technology Stack
