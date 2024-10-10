@@ -21,22 +21,22 @@ Our project will focus on analyzing and predicting housing prices in California 
 
 ### Data Exploration and Cleanup
 - **Task**: Explore and clean the dataset to prepare it for analysis. Keep track of steps in a Jupyter notebook.
-- **Assigned to**: [Member1]
+- **Assigned to**: [Group 1]
 - **Due**: [Date]
 
 ### Data Analysis
 - **Task**: Perform analysis using various techniques (aggregation, correlation, etc.) and document findings in a dedicated Jupyter notebook.
-- **Assigned to**: [Member1]
+- **Assigned to**: [Group 1]
 - **Due**: [Date]
 
 ### Model Implementation
 - **Task**: Initialize, train, and evaluate the predictive model using Scikit-learn or another library. Ensure data is cleaned and normalized.
-- **Assigned to**: [Member2]
+- **Assigned to**: [All]
 - **Due**: [Date]
 
 ### Model Optimization
 - **Task**: Optimize the model and document the performance changes during iterations in a CSV/Excel table or within the script.
-- **Assigned to**: [Member2]
+- **Assigned to**: [All]
 - **Due**: [Date]
 
 ### Front-end Interface
@@ -57,7 +57,7 @@ Our project will focus on analyzing and predicting housing prices in California 
 ### GitHub Documentation
 - **Task**: Maintain a clean GitHub repository, including a polished README.
 - **Assigned to**: All members
-- **Due**: [Date]
+- **Due**: Wed 10/15/2024
 
 ## Technology Stack
 - **Machine Learning Library**: Scikit-learn (mandatory)
