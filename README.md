@@ -1,4 +1,4 @@
-# Project 4, Group 5 - California Housing Prices - Random Forest Regressor
+# California Housing Prices - Random Forest Regressor
 
 [Proposal](https://docs.google.com/document/d/1_mmjhWB2bmb_Mg4SUhwQDDBE3OMgFlOQ-MN9PvC8HbQ)
 
@@ -13,3 +13,22 @@ The dataset used may not fully reflect the current housing market and could be o
 ## Documentation
 
 - [VSCode and Colab Compatibility Guide](references/vscode_colab_compatibility.md) - Use this quick reference sheet if you prefer to run the Google Colab notebook through Visual Studio Code instead.
+
+---
+
+## Model Optimization and Performance  
+This project demonstrates iterative model optimization by comparing different algorithms, such as:
+- **RandomForestRegressor**
+- **GradientBoostingRegressor**
+- **LinearRegression**
+
+Performance metrics, such as **R² score** and **Mean Squared Error**, are tracked across models. Final performance results are printed at the end of the notebook to provide a clear evaluation of the best-performing model.
+
+---
+
+## Contributors
+
+- Caroline M.
+- Madison O.
+- Weibin H.
+- David K.
