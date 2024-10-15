@@ -12,7 +12,7 @@ The dataset used may not fully reflect the current housing market and could be o
 
 ## Documentation
 
-- [VSCode and Colab Compatibility Guide](references/vscode_colab_compatibility.md) - Use this quick reference sheet if you prefer to run the Google Colab notebook through Visual Studio Code instead.
+- [VSCode and Colab Compatibility Guide]([references/vscode_colab_compatibility.md](https://github.com/omomadcat/Project_4_Group_5/blob/main/references/vscode_colab_compatibility.md)) - Use this quick reference sheet if you prefer to run the Google Colab notebook through Visual Studio Code instead.
 
 ---
 
