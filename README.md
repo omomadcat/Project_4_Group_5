@@ -2,6 +2,9 @@
 
 [Proposal](https://docs.google.com/document/d/1_mmjhWB2bmb_Mg4SUhwQDDBE3OMgFlOQ-MN9PvC8HbQ)
 
+[Project 4 Group 5 Google Colab Notebook](https://colab.research.google.com/drive/1mr8Wa1ujgAPIYcC8mzQkmtTMngI6lVbf?usp=sharing)
+
+
 ## Description  
 This project uses machine learning to predict housing prices based on features from the [California Housing Prices dataset](https://www.kaggle.com/datasets/camnugent/california-housing-prices). Our primary goal is to explore patterns within the dataset and evaluate the performance of various regression models, such as **Random Forest Regressor**.
 
@@ -13,6 +16,9 @@ The dataset used may not fully reflect the current housing market and could be o
 ## Documentation
 
 - [VSCode and Colab Compatibility Guide](https://github.com/omomadcat/Project_4_Group_5/blob/main/references/vscode_colab_compatibility.md) - Use this quick reference sheet if you prefer to run the Google Colab notebook through Visual Studio Code instead.
+
+[Link to Colab Notebook](https://colab.research.google.com/drive/1mr8Wa1ujgAPIYcC8mzQkmtTMngI6lVbf?usp=sharing)
+
 
 ---
 
